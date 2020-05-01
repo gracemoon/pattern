@@ -3,3 +3,5 @@ Software Design Pattern (Software Design Pattern), also known as design pattern,
 
 ### 23 Design Pattern
 - [Singleton](/Singleton)
+- [Prototype](/Prototype)
+- [Factory](/Factory)
