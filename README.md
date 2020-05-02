@@ -5,3 +5,8 @@ Software Design Pattern (Software Design Pattern), also known as design pattern,
 - [Singleton](/Singleton)
 - [Prototype](/Prototype)
 - [Factory](/Factory)
+- [AbstracFactory](/AbstracFactory)
+- [Builder](/Builder)
+- [Proxy](/Proxy)
+- [Adapter](/Adapter)
+- [Bridge](/Bridge)
