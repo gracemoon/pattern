@@ -10,3 +10,5 @@ Software Design Pattern (Software Design Pattern), also known as design pattern,
 - [Proxy](/Proxy)
 - [Adapter](/Adapter)
 - [Bridge](/Bridge)
+- [Decorator](/Decorator)
+- [Facade](/Facade)
